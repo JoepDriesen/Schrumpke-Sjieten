@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Offici\"eel Jargon}{2}
+\contentsline {section}{\numberline {2}De schrump}{3}
+\contentsline {section}{\numberline {3}Het speelveld}{4}
+\contentsline {section}{\numberline {4}De werptechniek}{5}
+\contentsline {section}{\numberline {5}Het scoresysteem}{6}
+\contentsline {section}{\numberline {6}De touwmeester}{7}
+\contentsline {section}{\numberline {7}Het Spelverloop}{8}
+\contentsline {subsection}{\numberline {7.1}Bepaling van de sjietorde}{8}
+\contentsline {subsection}{\numberline {7.2}Het sjieten}{8}
+\contentsline {subsection}{\numberline {7.3}Toekennen van de score}{8}
+\contentsline {subsection}{\numberline {7.4}Einde van het spel}{9}
