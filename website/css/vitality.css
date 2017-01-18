@@ -670,6 +670,8 @@ aside.cta-quote span.quote {
 }
 .portfolio-carousel .item .project-details {
   padding: 0;
+}
+.portfolio-carousel .item .project-details p {
     text-align: justify;
 }
 .portfolio-carousel .item .project-details .project-name {
