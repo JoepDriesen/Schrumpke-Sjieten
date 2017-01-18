@@ -288,7 +288,7 @@ header {
   -o-background-size: cover;
   padding: 100px 0;
 }
-header .header-darkener {
+header .darkener {
   position: relateive;
   width: 100%;
   height: 100%;
