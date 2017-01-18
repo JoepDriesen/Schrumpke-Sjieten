@@ -884,10 +884,12 @@ aside.cta-quote span.quote {
 }
 #portfoliolist .mix {
   width: 31%;
+  height: 236px;
   margin: 1%;
   display: none;
   float: left;
   overflow: hidden;
+  background-size: cover;
 }
 #portfoliolist .mix .portfolio-wrapper {
   overflow: hidden;
