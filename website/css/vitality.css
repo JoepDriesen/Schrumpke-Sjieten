@@ -211,7 +211,7 @@ hr.colored {
 }
 .navbar-default .navbar-brand,
 .navbar-inverse .navbar-brand {
-  color: #333;
+  color: #fff;
   opacity: 1;
   text-decoration: none;
   -webkit-transition: all 0.5s;
@@ -288,8 +288,14 @@ header {
   -o-background-size: cover;
   padding: 100px 0;
 }
+header .header-darkener {
+  position: relateive;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
 header .intro-content {
-  color: #333;
+  color: #fff;
   text-align: center;
   position: relative;
 }
