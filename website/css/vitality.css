@@ -21,6 +21,9 @@ footer {
   right: 0;
   background-color: rgba(0, 0, 0, 0.2);
 }
+.darkener.darker {
+  background-color: rgba(0, 0, 0, 0.6);
+}
 .img-centered {
   margin: 0 auto;
 }
@@ -301,9 +304,6 @@ header {
   background-size: cover;
   -o-background-size: cover;
   padding: 100px 0;
-}
-header .darkener.darker {
-  background-color: rgba(0, 0, 0, 0.6);
 }
 header .intro-content {
   color: #fff;
